@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "http://sciencehackday.in"
+baseurl: "/2018/"
+url: "https://sciencehackdayindia.github.io/2018/"
 title: SHD India # site's title
 description: "Science Hack Day India 2018" # used by search engines
 
